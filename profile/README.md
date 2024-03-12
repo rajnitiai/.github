@@ -1,4 +1,5 @@
 ## Hi there 👋
+![RajnitiAI](rajnitiai.svg)
 
 RajnitiAI is a community of technologists and political enthusiasts working together to promote good governance through machine learning and AI-powered policymaking.
 
