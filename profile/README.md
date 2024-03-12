@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-🙋‍♀️ RajnitiAI is a community interested in technology and politics. They're aims to create political datasets to help make better decisions using artificial intelligence.
+RajnitiAI is a community of technologists and political enthusiasts working together to promote good governance through machine learning and AI-powered policymaking.
 
+They're aims to create political datasets to help make better decisions using artificial intelligence.
