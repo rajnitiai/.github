@@ -1,9 +1,8 @@
 ## Hi there 👋
 ![RajnitiAI](https://raw.githubusercontent.com/rajnitiai/.github/main/profile/rajnitiai.svg)
 
-RajnitiAI is a community of technologists and political enthusiasts working together to promote good governance through machine learning and AI-powered policymaking.
+RajnitiAI is a community that works to open-source datasets for policy research.
 
-They're aims to create political datasets to help make better decisions using artificial intelligence.
 
 # Let's work together
 [Join the discussion](https://github.com/orgs/rajnitiai/discussions)
