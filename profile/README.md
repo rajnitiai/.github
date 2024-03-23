@@ -1,7 +1,8 @@
 ## Hi there 👋
 ![RajnitiAI](https://raw.githubusercontent.com/rajnitiai/.github/main/profile/rajnitiai.svg)
 
-RajnitiAI is a community that works to open-source datasets for policy research.
+
+The community collaborates to provide open-source datasets for policy research.
 
 
 # Let's work together
