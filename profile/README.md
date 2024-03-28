@@ -7,17 +7,11 @@
 
 **Our Motto:** AI-Powered Policy Research
 
-**Our Approach:**
-
-* Collect and curate research-grade data.
-* Openly share this data to Policy Researchers.
+The community collaborates to provide open-source datasets for policy research.
 
 **Our Vision:**
 
 * Develop good governance through AI-powered policymaking. 
-
-The community collaborates to provide open-source datasets for policy research.
-
 
 # Join the discussion 
 [Join the discussion](https://github.com/orgs/rajnitiai/discussions)
