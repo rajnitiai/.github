@@ -2,16 +2,9 @@
 
 ![RajnitiAI](https://raw.githubusercontent.com/rajnitiai/.github/main/profile/rajnitiai.svg)
 
-**RajnitiAI** is a community dedicated to using **artificial intelligence (AI)** for policy research to advance Bangladesh. 
-
+RajnitiAI is committed to leveraging artificial intelligence (AI) to revolutionize policy research, advocate for AI in politics, facilitate data collection for Data-Driven Decision Making, and analyze social media trends to guide and support political parties. 
 
 **Our Motto:** AI-Powered Policy Research
-
-The community collaborates to provide open-source datasets for policy research.
-
-**Our Vision:**
-
-* Develop good governance through AI-powered policymaking. 
 
 # Join the discussion 
 [Join the discussion](https://github.com/orgs/rajnitiai/discussions)
